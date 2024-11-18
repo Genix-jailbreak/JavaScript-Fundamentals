@@ -116,7 +116,7 @@ console.log(multiply(4, 5)); // Output: 20
 console.log(passedStudents); // Output: [80, 90, 76]  
 ```  
 
-🔗 [Watch Video 3 on YouTube](https://www.youtube.com/watch?v=o9cOGkc-KsI)  
+🔗 [Watch Video 3 on YouTube](https://www.youtube.com/watch?v=U2GGIhLInWg)  
 
 ---
 
